@@ -5,6 +5,7 @@ ps1.pdf에서 3번, 4번이 과제입니다. </br>
 -> 업로드했습니다. 원안인 ps1.zip이 아닌, 해당 파일을 이용하실 분들은 Poisson_regression.zip을 사용해주시면 되겠습니다. instruction은 아래와 같습니다.
 
 [ by 조교 손재훈 ]
+
 안녕하세요.
 이번 Poisson regression 코딩 과제 업로드 했습니다. (Poisson_regression.zip)
 src/poisson_regression에만 코드 작성하시고, main.py 실행해서 prediction 파일 저장 후 compare.py 파일 실행해서 구현한 모델과 sklearn의 poisson regression 모델을 비교해보시면 됩니다.
